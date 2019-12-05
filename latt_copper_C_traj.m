@@ -1,4 +1,7 @@
 
+% This script mainly plot the trajectory on the 
+% molecular dynamics simulation on the copper surface
+
 clearvars -except x r1 cx cy hx hy y1 y2 y3 y4
 
 figure
